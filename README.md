@@ -21,4 +21,12 @@ Exercícios aleatórios do <b> Programa de cursos integrados Python Scripting fo
     <li>Collections</li>
   </ul>
   </li>
+  <li>Course: Python Scripting: Files, Inheritance, and Databases
+  <ul>
+    <li>Files</li>
+    <li>Inheritance</li>
+    <li>External libaries</li>
+  </ul>
+  
+  </li>
 </ul>
